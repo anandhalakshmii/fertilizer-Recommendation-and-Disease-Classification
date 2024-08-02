@@ -1,4 +1,4 @@
-# Fertilizer-Recommendation-and-Disease-Classification
+# Fertilizer Recommendation and Disease Classification
 
  ### Problem Statement:
  Agriculture is the most important sector in today’s life. Most plants are affected by a wide

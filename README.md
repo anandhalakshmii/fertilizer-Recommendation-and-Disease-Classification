@@ -1,1 +1,1 @@
-# fertilizer-Recommendation-and-Disease-Classification
+# Fertilizer-Recommendation-and-Disease-Classification

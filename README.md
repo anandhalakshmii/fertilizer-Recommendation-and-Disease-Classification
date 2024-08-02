@@ -9,15 +9,15 @@
  increased due to the variation in pathogen varieties, changes in cultivation methods, and
  inadequate plant protection techniques.
  An automated system is introduced to identify different diseases on plants by checking
- the symptoms shown on the leaves of the plant. Deep learning techniques are used to
+ the symptoms shown on the leaves of the plant. CNN model techniques are used to
  identify the diseases and suggest the precautions that can be taken for those diseases.
+
+ Click for a [Demo](https://www.canva.com/design/DAGMqvBkqio/9qt2bZrxNCtnQ5NSgth_6Q/edit?utm_content=DAGMqvBkqio&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) :)
  
 ### The objectives of the project can be listed as follows:
- <LI> To Preprocess the images.</LI>
- <li> To Apply the CNN algorithm to the dataset.</li>
- <li> To understand how deep neural networks detect the disease.</li>
- <li> To know how to find the accuracy of the CNN model.</li>
- <li> To build web applications using the Flask framework. </li>
+ <LI> To provide a better solution for farmers to predict disease at an ealrier stage</LI>
+ <li> To make farming easy.</li>
+
 
 ### Design Diagram : 
 ![img](https://github.com/user-attachments/assets/b029acb7-1ff4-4b20-9bbf-1d0a792cf300)

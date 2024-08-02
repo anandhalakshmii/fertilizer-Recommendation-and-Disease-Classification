@@ -13,11 +13,11 @@
  identify the diseases and suggest the precautions that can be taken for those diseases.
  
 ### The objectives of the project can be listed as follows:
- <LI>● To Preprocess the images.</LI>
- <li>● To Apply the CNN algorithm to the dataset.</li>
- <li>● To understand how deep neural networks detect the disease.</li>
- <li>● To know how to find the accuracy of the CNN model.</li>
- <li>● To build web applications using the Flask framework. </li>
+ <LI> To Preprocess the images.</LI>
+ <li> To Apply the CNN algorithm to the dataset.</li>
+ <li> To understand how deep neural networks detect the disease.</li>
+ <li> To know how to find the accuracy of the CNN model.</li>
+ <li> To build web applications using the Flask framework. </li>
 
 ### Design Diagram : 
 ![img](https://github.com/user-attachments/assets/b029acb7-1ff4-4b20-9bbf-1d0a792cf300)
